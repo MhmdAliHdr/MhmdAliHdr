@@ -4,6 +4,11 @@
 <p align="center">$${{\color{#ffd9b3}I \space am \space Amby, \space a \space computer \space science \space student \space who \space likes \space adding \space color \space to}}$$</p> 
 <p align="center">$${{\color{#ffd9b3}\space everything \space so \space much \space,\space he \space spent \space an \space unhealthy \space amount \space of \space type \space making \space this \space README.}}$$</p>
 </div>
+<p align="center">$${{\color{#ffd9b3}I \space am \space originally \space Lebanese, \space but \space currently \space pursuing \space a \space Master's \space degree \space in \space Belgium}}$$</p>
+<img width="280" height="150" align="left" alt="flags" src="https://github.com/user-attachments/assets/38ff61f4-a1f6-4bc8-9748-d110fb0b3118" />
+<p align="center">$${{\color{#ffd9b3}at \space the \space Vrije \space Universiteit \space Brussel.}}$$</p>
+<p align="center">$${{\color{#ffd9b3}I \space am \space currently \space in \space my \space last \space semester \space}}$$</p>
+<p align="center">$${{\color{#ffd9b3}of \space studies \space and \space graduating \space in \space June.}}$$</p>
 <!--
 **MhmdAliHdr/MhmdAliHdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
