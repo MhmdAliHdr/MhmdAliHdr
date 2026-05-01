@@ -1,7 +1,9 @@
 <h1 align="center"> $${{\color{#ffd9b3}🌼Welcome \space \space \space to \space \space \space my \space \space \space Profile🌼}}$$</h1>
-<p align="center" size="3">$${{\color{#ffd9b3}I \space am \space Amby, \space a \space computer \space science \space student \space who \space likes \space adding \space color \space to}}$$</p> 
+<div style="display:block;">
+<img width="280" height="280" align="right" alt="me" src="https://github.com/user-attachments/assets/7c0cc40c-60fc-4a83-a547-bacf9bfe4ed3" />
+<p align="center">$${{\color{#ffd9b3}I \space am \space Amby, \space a \space computer \space science \space student \space who \space likes \space adding \space color \space to}}$$</p> 
 <p align="center">$${{\color{#ffd9b3}\space everything \space so \space much \space,\space he \space spent \space an \space unhealthy \space amount \space of \space type \space making \space this \space README.}}$$</p>
-
+</div>
 <!--
 **MhmdAliHdr/MhmdAliHdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
